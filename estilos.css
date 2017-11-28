@@ -6,3 +6,9 @@ h1 {
     color: white;
     text-align: center;
 }
+
+p {
+    color: blue;
+    text-align: justify;
+    font-size: 15px;
+}
